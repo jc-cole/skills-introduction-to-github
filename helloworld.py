@@ -1,7 +1,5 @@
 import random
 
-print("Hello world!")
-
 def binary_search(lis, target):
     high = len(lis)-1
     low = 0
